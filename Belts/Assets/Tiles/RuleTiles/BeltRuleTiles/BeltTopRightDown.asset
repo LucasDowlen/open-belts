@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: BeltTopRightDown
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: -709130145, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+  m_DefaultGameObject: {fileID: 7198102166298373064, guid: 18703ebed3c1448a4afc214e938d2a2c,
+    type: 3}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Id: 0
+    m_Sprites:
+    - {fileID: -709130145, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: -1921263566, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: -1257531141, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: 381754668, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: 536957195, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: -948001705, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: -1818529742, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: 10573181, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: 2053139457, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: 1295574938, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: -989357454, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: 1843305741, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: 2145885313, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: -1983768108, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: -1423761869, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    - {fileID: -272077406, guid: ce0d1dbb7bc1b4163b914ab56679c9f3, type: 3}
+    m_GameObject: {fileID: 7198102166298373064, guid: 18703ebed3c1448a4afc214e938d2a2c,
+      type: 3}
+    m_MinAnimationSpeed: 8
+    m_MaxAnimationSpeed: 8
+    m_PerlinScale: 0.5
+    m_Output: 2
+    m_ColliderType: 1
+    m_RandomTransform: 0
+    m_Neighbors: 
+    m_NeighborPositions:
+    - {x: -1, y: 1, z: 0}
+    - {x: 0, y: 1, z: 0}
+    - {x: 1, y: 1, z: 0}
+    - {x: -1, y: 0, z: 0}
+    - {x: 1, y: 0, z: 0}
+    - {x: -1, y: -1, z: 0}
+    - {x: 0, y: -1, z: 0}
+    - {x: 1, y: -1, z: 0}
+    m_RuleTransform: 0

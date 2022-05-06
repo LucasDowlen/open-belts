@@ -1,0 +1,3 @@
+rep "Belts@a2d_Gave_Dev@cloud"
+  path "/"
+    smartbranch "/main"
